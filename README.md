@@ -20,7 +20,7 @@ I have been into development from my starting days of my education career. I hav
 * 🌍  I'm based in Bhagalpur, Bihar, India.
 * ✉️  You can contact me at [amulyaabhianandan07@gmail.com](mailto:amulyaabhianandan07@gmail.com)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Web Dev Projects
+* 🤝  I'm open to collaborating on Web Application Development Projects
 
 ### Skills
 
@@ -56,7 +56,3 @@ I have been into development from my starting days of my education career. I hav
 <a href="http://www.github.com/amulyaabhinandan"><img src="https://activity-graph.herokuapp.com/graph?username=amulyaabhinandan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/amulyaabhinandan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyaabhinandan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/amulyaabhinandan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
