@@ -15,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 Software Developer
 ------------------
 
-I have been into development from my starting days of my education career. I have plethora of knowledge in every latest trending technologies like Web Development, Android App Development, Data Science, Blockchain App Development, Cloud Services, etc. and therefore, made me to do projects in these fields.
+I have been into programming and development from the starting days of my educational career. I have plethora of knowledge & done hands-on in various latest trending technologies like Web App Development, Android App Development, Data Science, Blockchain App Development, Cloud Services, Network Security, etc. and hence, pushing me to do research and develop projects in the above mentioned fields.
 
 * 🌍  I'm based in Bhagalpur, Bihar, India.
 * ✉️  You can contact me at [amulyaabhianandan07@gmail.com](mailto:amulyaabhianandan07@gmail.com)
-* 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Web Application Development Projects
+* 🧠  I'm currently learning React.js
+* 🤝  I'm open to collaborating on Web Application Development Projects.
 
 ### Skills
 
