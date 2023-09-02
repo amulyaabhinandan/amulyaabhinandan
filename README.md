@@ -12,14 +12,15 @@ You can click the Preview link to take a look at your changes.
  Hi 👋 My name is Amulya Abhinandan
 ==================================
 
-Software Developer
+Software Developer @ AMDOCS
 ------------------
 
-I have been into programming and development from the starting days of my educational career. I have plethora of knowledge & done hands-on in various latest trending technologies like Web App Development, Android App Development, Data Science, Blockchain App Development, Cloud Services, Network Security, etc. and hence, pushing me to do research and develop projects in the above mentioned fields.
+I have been into programming and development from the starting days of my educational career. I have a plethora of knowledge & done hands-on in various latest trending technologies like Web App Development, Android App Development, Data Science, Blockchain App Development, Cloud Services, Network Security, etc., and hence, pushing me to do research and develop projects in the above-mentioned fields.
 
-* 🌍  I'm based in Bhagalpur, Bihar, India.
-* ✉️  You can contact me at [amulyaabhianandan07@gmail.com](mailto:amulyaabhianandan07@gmail.com)
-* 🧠  I'm currently learning React.js
+* 🌍  I'm currently living in Pune, Maharashtra, India.
+* ✉️  You can contact me at [amulyaabhinandan07@gmail.com](mailto:amulyaabhianandan07@gmail.com)
+* 👨‍💻  Working as a Software Developer at Amdocs
+* 🧠  Tech Stack: React.js
 * 🤝  I'm open to collaborating on Web Application Development Projects.
 
 ### Skills
