@@ -19,7 +19,7 @@ I have been into programming and development from the starting days of my educat
 
 * 🌍  I'm currently living in Pune, Maharashtra, India.
 * ✉️  You can contact me at [amulyaabhinandan07@gmail.com](mailto:amulyaabhianandan07@gmail.com)
-* 👨‍💻  Working as a Software Developer at Amdocs
+* 👨‍💻  Working as a Software Developer (Optima - R&D Unit) at Amdocs
 * 🧠  Tech Stack: HTML, CSS, Javascript, React.js, Typescript, Redux, and many more...
 * 🤝  I'm open to collaborating on Web Application Development Projects.
 
